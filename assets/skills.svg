@@ -1,0 +1,222 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 666" width="1200" height="666" role="img" aria-labelledby="t">
+  <title id="t">Skills: 30 tools in six groups, levels out of five</title>
+  <style>
+    .serif { font-family: Georgia, "Iowan Old Style", "Times New Roman", serif; }
+    .sans { font-family: "Segoe UI", -apple-system, Helvetica, Arial, sans-serif; }
+    .h { font-size: 24px; font-weight: 700; fill: #f2ede2; }
+    .n { font-size: 17px; fill: #f2ede2; fill-opacity: .9; }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f2f2b"/><stop offset=".55" stop-color="#0b1b22"/><stop offset="1" stop-color="#1d1a2e"/></linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="80"/></filter>
+    <filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="3" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .5 0"/></filter>
+    <linearGradient id="pane" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".2"/><stop offset=".6" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity=".1"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-color="#fff" stop-opacity=".1"/></linearGradient>
+  </defs>
+  <rect width="1200" height="666" rx="30" fill="url(#bg)"/>
+  <g filter="url(#blur)">
+    <circle cx="140" cy="60" r="260" fill="#8fd0bd" opacity=".5"/>
+    <circle cx="1080" cy="333.0" r="220" fill="#f0c25f" opacity=".32"/>
+    <circle cx="600.0" cy="666" r="240" fill="#d49a94" opacity=".3"/>
+  </g>
+
+  <rect x="28.0" y="28" width="366.7" height="304" rx="22" fill="url(#pane)"/>
+  <rect x="28.5" y="28.5" width="365.7" height="303" rx="22" fill="none" stroke="url(#edge)"/>
+  <text class="serif h" x="52.0" y="70">Languages</text>
+  <text class="sans n" x="52.0" y="110">HTML5</text>
+  <circle cx="297.7" cy="104" r="5.5" fill="#8fd0bd"/>
+  <circle cx="314.7" cy="104" r="5.5" fill="#8fd0bd"/>
+  <circle cx="331.7" cy="104" r="5.5" fill="#8fd0bd"/>
+  <circle cx="348.7" cy="104" r="5.5" fill="#8fd0bd"/>
+  <circle cx="365.7" cy="104" r="5.5" fill="#8fd0bd"/>
+  <text class="sans n" x="52.0" y="140">CSS3</text>
+  <circle cx="297.7" cy="134" r="5.5" fill="#8fd0bd"/>
+  <circle cx="314.7" cy="134" r="5.5" fill="#8fd0bd"/>
+  <circle cx="331.7" cy="134" r="5.5" fill="#8fd0bd"/>
+  <circle cx="348.7" cy="134" r="5.5" fill="#8fd0bd"/>
+  <circle cx="365.7" cy="134" r="5.5" fill="#8fd0bd"/>
+  <text class="sans n" x="52.0" y="170">JavaScript</text>
+  <circle cx="297.7" cy="164" r="5.5" fill="#8fd0bd"/>
+  <circle cx="314.7" cy="164" r="5.5" fill="#8fd0bd"/>
+  <circle cx="331.7" cy="164" r="5.5" fill="#8fd0bd"/>
+  <circle cx="348.7" cy="164" r="5.5" fill="#8fd0bd"/>
+  <circle cx="365.7" cy="164" r="5.5" fill="#8fd0bd"/>
+  <text class="sans n" x="52.0" y="200">PHP</text>
+  <circle cx="297.7" cy="194" r="5.5" fill="#8fd0bd"/>
+  <circle cx="314.7" cy="194" r="5.5" fill="#8fd0bd"/>
+  <circle cx="331.7" cy="194" r="5.5" fill="#8fd0bd"/>
+  <circle cx="348.7" cy="194" r="5.5" fill="#8fd0bd"/>
+  <circle cx="365.7" cy="194" r="5.5" fill="#8fd0bd"/>
+  <text class="sans n" x="52.0" y="230">Java</text>
+  <circle cx="297.7" cy="224" r="5.5" fill="#8fd0bd"/>
+  <circle cx="314.7" cy="224" r="5.5" fill="#8fd0bd"/>
+  <circle cx="331.7" cy="224" r="5.5" fill="#8fd0bd"/>
+  <circle cx="348.7" cy="224" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <circle cx="365.7" cy="224" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <text class="sans n" x="52.0" y="260">Python</text>
+  <circle cx="297.7" cy="254" r="5.5" fill="#8fd0bd"/>
+  <circle cx="314.7" cy="254" r="5.5" fill="#8fd0bd"/>
+  <circle cx="331.7" cy="254" r="5.5" fill="#8fd0bd"/>
+  <circle cx="348.7" cy="254" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <circle cx="365.7" cy="254" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <text class="sans n" x="52.0" y="290">Dart</text>
+  <circle cx="297.7" cy="284" r="5.5" fill="#8fd0bd"/>
+  <circle cx="314.7" cy="284" r="5.5" fill="#8fd0bd"/>
+  <circle cx="331.7" cy="284" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <circle cx="348.7" cy="284" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <circle cx="365.7" cy="284" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <rect x="416.7" y="28" width="366.7" height="304" rx="22" fill="url(#pane)"/>
+  <rect x="417.2" y="28.5" width="365.7" height="303" rx="22" fill="none" stroke="url(#edge)"/>
+  <text class="serif h" x="440.7" y="70">Frameworks and UI</text>
+  <text class="sans n" x="440.7" y="110">Bootstrap</text>
+  <circle cx="686.3" cy="104" r="5.5" fill="#8fd0bd"/>
+  <circle cx="703.3" cy="104" r="5.5" fill="#8fd0bd"/>
+  <circle cx="720.3" cy="104" r="5.5" fill="#8fd0bd"/>
+  <circle cx="737.3" cy="104" r="5.5" fill="#8fd0bd"/>
+  <circle cx="754.3" cy="104" r="5.5" fill="#8fd0bd"/>
+  <text class="sans n" x="440.7" y="140">React</text>
+  <circle cx="686.3" cy="134" r="5.5" fill="#8fd0bd"/>
+  <circle cx="703.3" cy="134" r="5.5" fill="#8fd0bd"/>
+  <circle cx="720.3" cy="134" r="5.5" fill="#8fd0bd"/>
+  <circle cx="737.3" cy="134" r="5.5" fill="#8fd0bd"/>
+  <circle cx="754.3" cy="134" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <text class="sans n" x="440.7" y="170">Tailwind CSS</text>
+  <circle cx="686.3" cy="164" r="5.5" fill="#8fd0bd"/>
+  <circle cx="703.3" cy="164" r="5.5" fill="#8fd0bd"/>
+  <circle cx="720.3" cy="164" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <circle cx="737.3" cy="164" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <circle cx="754.3" cy="164" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <text class="sans n" x="440.7" y="200">Laravel</text>
+  <circle cx="686.3" cy="194" r="5.5" fill="#8fd0bd"/>
+  <circle cx="703.3" cy="194" r="5.5" fill="#8fd0bd"/>
+  <circle cx="720.3" cy="194" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <circle cx="737.3" cy="194" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <circle cx="754.3" cy="194" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <text class="sans n" x="440.7" y="230">Flutter</text>
+  <circle cx="686.3" cy="224" r="5.5" fill="#8fd0bd"/>
+  <circle cx="703.3" cy="224" r="5.5" fill="#8fd0bd"/>
+  <circle cx="720.3" cy="224" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <circle cx="737.3" cy="224" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <circle cx="754.3" cy="224" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <rect x="805.3" y="28" width="366.7" height="304" rx="22" fill="url(#pane)"/>
+  <rect x="805.8" y="28.5" width="365.7" height="303" rx="22" fill="none" stroke="url(#edge)"/>
+  <text class="serif h" x="829.3" y="70">Backend and data</text>
+  <text class="sans n" x="829.3" y="110">MySQL</text>
+  <circle cx="1075.0" cy="104" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1092.0" cy="104" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1109.0" cy="104" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1126.0" cy="104" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1143.0" cy="104" r="5.5" fill="#8fd0bd"/>
+  <text class="sans n" x="829.3" y="140">Node.js</text>
+  <circle cx="1075.0" cy="134" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1092.0" cy="134" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1109.0" cy="134" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1126.0" cy="134" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1143.0" cy="134" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <text class="sans n" x="829.3" y="170">Express</text>
+  <circle cx="1075.0" cy="164" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1092.0" cy="164" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1109.0" cy="164" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1126.0" cy="164" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1143.0" cy="164" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <text class="sans n" x="829.3" y="200">MongoDB</text>
+  <circle cx="1075.0" cy="194" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1092.0" cy="194" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1109.0" cy="194" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1126.0" cy="194" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <circle cx="1143.0" cy="194" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <text class="sans n" x="829.3" y="230">MSSQL Server</text>
+  <circle cx="1075.0" cy="224" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1092.0" cy="224" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1109.0" cy="224" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1126.0" cy="224" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <circle cx="1143.0" cy="224" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <text class="sans n" x="829.3" y="260">Django</text>
+  <circle cx="1075.0" cy="254" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1092.0" cy="254" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1109.0" cy="254" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1126.0" cy="254" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <circle cx="1143.0" cy="254" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <rect x="28.0" y="354" width="366.7" height="274" rx="22" fill="url(#pane)"/>
+  <rect x="28.5" y="354.5" width="365.7" height="273" rx="22" fill="none" stroke="url(#edge)"/>
+  <text class="serif h" x="52.0" y="396">Fundamentals</text>
+  <text class="sans n" x="52.0" y="436">Data Structures, Algorithms</text>
+  <circle cx="297.7" cy="430" r="5.5" fill="#8fd0bd"/>
+  <circle cx="314.7" cy="430" r="5.5" fill="#8fd0bd"/>
+  <circle cx="331.7" cy="430" r="5.5" fill="#8fd0bd"/>
+  <circle cx="348.7" cy="430" r="5.5" fill="#8fd0bd"/>
+  <circle cx="365.7" cy="430" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <text class="sans n" x="52.0" y="466">OOP</text>
+  <circle cx="297.7" cy="460" r="5.5" fill="#8fd0bd"/>
+  <circle cx="314.7" cy="460" r="5.5" fill="#8fd0bd"/>
+  <circle cx="331.7" cy="460" r="5.5" fill="#8fd0bd"/>
+  <circle cx="348.7" cy="460" r="5.5" fill="#8fd0bd"/>
+  <circle cx="365.7" cy="460" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <rect x="416.7" y="354" width="366.7" height="274" rx="22" fill="url(#pane)"/>
+  <rect x="417.2" y="354.5" width="365.7" height="273" rx="22" fill="none" stroke="url(#edge)"/>
+  <text class="serif h" x="440.7" y="396">Platforms and tools</text>
+  <text class="sans n" x="440.7" y="436">Git</text>
+  <circle cx="686.3" cy="430" r="5.5" fill="#8fd0bd"/>
+  <circle cx="703.3" cy="430" r="5.5" fill="#8fd0bd"/>
+  <circle cx="720.3" cy="430" r="5.5" fill="#8fd0bd"/>
+  <circle cx="737.3" cy="430" r="5.5" fill="#8fd0bd"/>
+  <circle cx="754.3" cy="430" r="5.5" fill="#8fd0bd"/>
+  <text class="sans n" x="440.7" y="466">GitHub</text>
+  <circle cx="686.3" cy="460" r="5.5" fill="#8fd0bd"/>
+  <circle cx="703.3" cy="460" r="5.5" fill="#8fd0bd"/>
+  <circle cx="720.3" cy="460" r="5.5" fill="#8fd0bd"/>
+  <circle cx="737.3" cy="460" r="5.5" fill="#8fd0bd"/>
+  <circle cx="754.3" cy="460" r="5.5" fill="#8fd0bd"/>
+  <text class="sans n" x="440.7" y="496">SEO</text>
+  <circle cx="686.3" cy="490" r="5.5" fill="#8fd0bd"/>
+  <circle cx="703.3" cy="490" r="5.5" fill="#8fd0bd"/>
+  <circle cx="720.3" cy="490" r="5.5" fill="#8fd0bd"/>
+  <circle cx="737.3" cy="490" r="5.5" fill="#8fd0bd"/>
+  <circle cx="754.3" cy="490" r="5.5" fill="#8fd0bd"/>
+  <text class="sans n" x="440.7" y="526">Shopify</text>
+  <circle cx="686.3" cy="520" r="5.5" fill="#8fd0bd"/>
+  <circle cx="703.3" cy="520" r="5.5" fill="#8fd0bd"/>
+  <circle cx="720.3" cy="520" r="5.5" fill="#8fd0bd"/>
+  <circle cx="737.3" cy="520" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <circle cx="754.3" cy="520" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <rect x="805.3" y="354" width="366.7" height="274" rx="22" fill="url(#pane)"/>
+  <rect x="805.8" y="354.5" width="365.7" height="273" rx="22" fill="none" stroke="url(#edge)"/>
+  <text class="serif h" x="829.3" y="396">AI toolkit</text>
+  <text class="sans n" x="829.3" y="436">Claude</text>
+  <circle cx="1075.0" cy="430" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1092.0" cy="430" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1109.0" cy="430" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1126.0" cy="430" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1143.0" cy="430" r="5.5" fill="#8fd0bd"/>
+  <text class="sans n" x="829.3" y="466">Claude Code</text>
+  <circle cx="1075.0" cy="460" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1092.0" cy="460" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1109.0" cy="460" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1126.0" cy="460" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1143.0" cy="460" r="5.5" fill="#8fd0bd"/>
+  <text class="sans n" x="829.3" y="496">ChatGPT</text>
+  <circle cx="1075.0" cy="490" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1092.0" cy="490" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1109.0" cy="490" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1126.0" cy="490" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1143.0" cy="490" r="5.5" fill="#8fd0bd"/>
+  <text class="sans n" x="829.3" y="526">Codex</text>
+  <circle cx="1075.0" cy="520" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1092.0" cy="520" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1109.0" cy="520" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1126.0" cy="520" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1143.0" cy="520" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <text class="sans n" x="829.3" y="556">Gemini</text>
+  <circle cx="1075.0" cy="550" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1092.0" cy="550" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1109.0" cy="550" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1126.0" cy="550" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1143.0" cy="550" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <text class="sans n" x="829.3" y="586">DeepSeek</text>
+  <circle cx="1075.0" cy="580" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1092.0" cy="580" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1109.0" cy="580" r="5.5" fill="#8fd0bd"/>
+  <circle cx="1126.0" cy="580" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <circle cx="1143.0" cy="580" r="5.5" fill="#fff" fill-opacity=".16"/>
+  <rect width="1200" height="666" rx="30" filter="url(#grain)" opacity=".07"/>
+</svg>
