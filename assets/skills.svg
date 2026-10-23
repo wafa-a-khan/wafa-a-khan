@@ -59,7 +59,7 @@
   <circle cx="331.7" cy="254" r="5.5" fill="#8fd0bd"/>
   <circle cx="348.7" cy="254" r="5.5" fill="#fff" fill-opacity=".16"/>
   <circle cx="365.7" cy="254" r="5.5" fill="#fff" fill-opacity=".16"/>
-  <text class="sans n" x="52.0" y="290">Dart</text>
+  <text class="sans n" x="52.0" y="290"></text>
   <circle cx="297.7" cy="284" r="5.5" fill="#8fd0bd"/>
   <circle cx="314.7" cy="284" r="5.5" fill="#8fd0bd"/>
   <circle cx="331.7" cy="284" r="5.5" fill="#fff" fill-opacity=".16"/>
@@ -92,7 +92,7 @@
   <circle cx="720.3" cy="194" r="5.5" fill="#fff" fill-opacity=".16"/>
   <circle cx="737.3" cy="194" r="5.5" fill="#fff" fill-opacity=".16"/>
   <circle cx="754.3" cy="194" r="5.5" fill="#fff" fill-opacity=".16"/>
-  <text class="sans n" x="440.7" y="230">Flutter</text>
+  <text class="sans n" x="440.7" y="230"></text>
   <circle cx="686.3" cy="224" r="5.5" fill="#8fd0bd"/>
   <circle cx="703.3" cy="224" r="5.5" fill="#8fd0bd"/>
   <circle cx="720.3" cy="224" r="5.5" fill="#fff" fill-opacity=".16"/>
