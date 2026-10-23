@@ -19,7 +19,7 @@ Hi, I'm Ahmer. I'm a software engineer and full-stack developer from **Hyderabad
 I use AI tools such as Claude Code, GitHub Copilot and Cursor to move faster, and I keep the thinking my own. My goal: become a strong full-stack developer and build things that last.
 
 - Working with **PHP, Laravel, React, Node.js, Django and MySQL**
-- Learning next: **deeper Laravel, Flutter and TypeScript**
+- Learning next: **deeper Laravel,  and **
 - Writing: **40+ articles** across seven platforms, plus engineering logs and case studies
 - Open to freelance and contract work, remote worldwide on PKT (UTC+5)
 
