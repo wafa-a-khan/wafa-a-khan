@@ -4,28 +4,26 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahmershah.dev-f0c25f?style=for-the-badge&labelColor=0f2f2b)](https://ahmershah.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-syedahmershah-8fd0bd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f2f2b)](https://linkedin.com/in/syedahmershah)
-[![X](https://img.shields.io/badge/X-@ahmershahdev-7ea6dc?style=for-the-badge&logo=x&logoColor=white&labelColor=0f2f2b)](https://x.com/ahmershahdev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-syedahmershah-d49a94?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f2f2b)](https://leetcode.com/u/syedahmershah)
-[![Book a call](https://img.shields.io/badge/Book_a_free_call-Calendly-f2ede2?style=for-the-badge&logo=calendly&logoColor=1d1a2e&labelColor=0f2f2b)](https://calendly.com/syedahmershah)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmershah.dev-7a3cff?style=for-the-badge&labelColor=0a1240)](https://ahmershah.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-syedahmershah-a98bff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1240)](https://linkedin.com/in/syedahmershah)
+[![X](https://img.shields.io/badge/X-@ahmershahdev-5a24e0?style=for-the-badge&logo=x&logoColor=white&labelColor=0a1240)](https://x.com/ahmershahdev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-syedahmershah-d04bff?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a1240)](https://leetcode.com/u/syedahmershah)
+[![Book a call](https://img.shields.io/badge/Book_a_free_call-Calendly-e8ebff?style=for-the-badge&logo=calendly&logoColor=0a1240&labelColor=0a1240)](https://calendly.com/syedahmershah)
 
 </div>
 
 ## About
 
-Hi, I'm Ahmer. I'm a software engineer and full-stack developer from **Hyderabad, Sindh, Pakistan**, building fast, secure web apps and writing up how they're made. I study Software Engineering at **HITMS** and follow a three-year Advanced Diploma at **Aptech Pakistan**, a mix of theory and hands-on practice that both finish in 2028.
+Hi, I'm Ahmer. I'm a software engineer and full-stack developer from **Hyderabad, Sindh, Pakistan**, building fast, secure web apps and writing up how they're made. I study Software Engineering at **HITMS** and follow a three-year Advanced Diploma at **Aptech Pakistan**, a mix of theory and hands-on practice. Both finish in 2028.
 
 I use AI tools such as Claude Code, GitHub Copilot and Cursor to move faster, and I keep the thinking my own. My goal: become a strong full-stack developer and build things that last.
 
-- Working with **PHP, Laravel, React, Node.js, Django and MySQL**
-- Learning next: **deeper Laravel,  and **
 - Writing: **40+ articles** across seven platforms, plus engineering logs and case studies
 - Open to freelance and contract work, remote worldwide on PKT (UTC+5)
 
 ## Projects
 
-| Project | What it is | Stack |
+| Project | What it is | Built with |
 | --- | --- | --- |
 | [**HolidayOps**](https://github.com/ahmershahdev/holidayops) | A working-day API for 250 countries and 624 regions, with REST, iCal feeds, digests and signed webhooks in English, Urdu and Arabic (RTL). 481 automated tests. | Django, React, MySQL, Redis, Celery |
 | [**Ahmer Institute of Technology**](https://github.com/ahmershahdev/Ahmer-Institute-of-Technology) | A university admission and examination portal rebuilt from my internship: 31 tables, four portals, race-safe approvals, nonce-based CSP. | PHP, Laravel, MySQL |
@@ -36,15 +34,9 @@ I use AI tools such as Claude Code, GitHub Copilot and Cursor to move faster, an
 
 Full case studies: [ahmershah.dev/projects](https://ahmershah.dev/projects).
 
-## Toolbox
-
-<div align="center">
-<img src="./assets/skills.svg" alt="Skills: 30 tools in six groups, rated out of five" width="100%">
-</div>
-
 ## Experience
 
-**Full Stack Developer intern at XCL Technologies** (on-site, Hyderabad, 15 July to 15 August 2026). Built features for a university admission and examination portal: registration with e-mail verification, document submission, validation and flagging, PDF fee challans, exam slips and a Super Admin panel. Stack: PHP, Laravel, MySQL, JavaScript, Tailwind CSS, Bootstrap, Git.
+**Full Stack Developer intern at XCL Technologies** (on-site, Hyderabad, 15 July to 15 August 2026). Built features for a university admission and examination portal: registration with e-mail verification, document submission, validation and flagging, PDF fee challans, exam slips and a Super Admin panel.
 
 ## Education
 
